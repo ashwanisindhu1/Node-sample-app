@@ -12,5 +12,5 @@ This app has following 4 functionalities:
 4. Upload multiple files: To understand how to use callbacks in a for loop using javascript's IIFE (immediately-invoked-function-expression)
 
 This repo uses some of the front-end assests from following resources:
-  -> http://monkeecreate.github.io/jquery.simpleWeather/
-  -> http://tutorialzine.com/2009/12/colorful-clock-jquery-css/
+  1. http://monkeecreate.github.io/jquery.simpleWeather/
+  2. http://tutorialzine.com/2009/12/colorful-clock-jquery-css/
