@@ -1,0 +1,11 @@
+!!! 5
+html
+  head
+    title My first node app
+  body
+    p
+      a(href='/') Return home
+    h1 Upload A File !
+    form(action="/singleupload", method="post", enctype="multipart/form-data")
+      input(type="file", name="pic1")
+      input(type="submit", name="submitBtn", value="Start upload");

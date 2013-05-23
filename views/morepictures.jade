@@ -1,0 +1,26 @@
+!!! 5
+html
+  head
+    title My first node app
+  body
+    p
+      a(href='/') Return home
+    h1 Upload More Files !
+    form(action="/multiupload", method="post", enctype="multipart/form-data")
+      input(type="file", name="pic1")
+      br
+      br
+      input(type="file", name="pic2")
+      br
+      br
+      input(type="file", name="pic3")
+      br
+      br
+      input(type="file", name="pic4")
+      br
+      br
+      input(type="file", name="pic5")
+      br
+      br
+
+      input(type="submit", name="submitBtn", value="Start upload");
