@@ -11,6 +11,12 @@ This app has following 4 functionalities:
 3. Upload a file: To understand how callbacks works in javascript.
 4. Upload multiple files: To understand how to use callbacks in a for loop using javascript's IIFE (immediately-invoked-function-expression)
 
+How to run this app: 
+```bash
+ npm install
+ node app.js
+```
+
 This repo uses some of the front-end assests from following resources:
   1. http://monkeecreate.github.io/jquery.simpleWeather/
   2. http://tutorialzine.com/2009/12/colorful-clock-jquery-css/
